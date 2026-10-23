@@ -11,7 +11,7 @@ Ele reabre o seu Discord passando por uma rota diferente (a rede Tor, que é gra
 
 Na primeira vez ele baixa o Tor sozinho (versão oficial, com checagem de segurança), então demora um pouquinho.
 
-**⚠️ Importante**
+**⚠️ Importante:**
 Se você fechar ou reiniciar o Discord, a rota se desfaz e é só abrir o Routedis de novo. Ele desliga a rota sozinho quando o Discord fecha, então nada fica rodando à toa.
 
 **Bom saber**
